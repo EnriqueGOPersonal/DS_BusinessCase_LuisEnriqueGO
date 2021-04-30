@@ -1,0 +1,4 @@
+pandas==1.2.4
+scikit-learn
+sweetviz==2.1.0
+flask
